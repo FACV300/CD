@@ -1,0 +1,46 @@
+E:\.Trashes\PROGRAMACION\sesión8\sesión8\bin\Debug\sesión8.exe.config
+E:\.Trashes\PROGRAMACION\sesión8\sesión8\bin\Debug\sesión8.exe
+E:\.Trashes\PROGRAMACION\sesión8\sesión8\bin\Debug\sesión8.pdb
+E:\.Trashes\PROGRAMACION\sesión8\sesión8\bin\Debug\sesión8.xml
+E:\.Trashes\PROGRAMACION\sesión8\sesión8\obj\Debug\sesión8.vbprojResolveAssemblyReference.cache
+E:\.Trashes\PROGRAMACION\sesión8\sesión8\obj\Debug\sesión8.Form1.resources
+E:\.Trashes\PROGRAMACION\sesión8\sesión8\obj\Debug\sesión8.Resources.resources
+E:\.Trashes\PROGRAMACION\sesión8\sesión8\obj\Debug\sesión8.vbproj.GenerateResource.Cache
+E:\.Trashes\PROGRAMACION\sesión8\sesión8\obj\Debug\sesión8.exe
+E:\.Trashes\PROGRAMACION\sesión8\sesión8\obj\Debug\sesión8.xml
+E:\.Trashes\PROGRAMACION\sesión8\sesión8\obj\Debug\sesión8.pdb
+C:\Users\Fabio\Documents\Visual Studio 2015\Projects\PROGRAMACION\sesión8\sesión8\bin\Debug\sesión8.exe.config
+C:\Users\Fabio\Documents\Visual Studio 2015\Projects\PROGRAMACION\sesión8\sesión8\obj\Debug\sesión8.exe
+C:\Users\Fabio\Documents\Visual Studio 2015\Projects\PROGRAMACION\sesión8\sesión8\obj\Debug\sesión8.xml
+C:\Users\Fabio\Documents\Visual Studio 2015\Projects\PROGRAMACION\sesión8\sesión8\obj\Debug\sesión8.pdb
+C:\Users\Fabio\Documents\Visual Studio 2015\Projects\PROGRAMACION\sesión8\sesión8\bin\Debug\sesión8.exe
+C:\Users\Fabio\Documents\Visual Studio 2015\Projects\PROGRAMACION\sesión8\sesión8\bin\Debug\sesión8.pdb
+C:\Users\Fabio\Documents\Visual Studio 2015\Projects\PROGRAMACION\sesión8\sesión8\bin\Debug\sesión8.xml
+C:\Users\Fabio\Documents\Visual Studio 2015\Projects\PROGRAMACION\sesión8\sesión8\obj\Debug\sesión8.vbprojResolveAssemblyReference.cache
+C:\Users\Fabio\Documents\Visual Studio 2015\Projects\PROGRAMACION\sesión8\sesión8\obj\Debug\sesión8.Form1.resources
+C:\Users\Fabio\Documents\Visual Studio 2015\Projects\PROGRAMACION\sesión8\sesión8\obj\Debug\sesión8.Resources.resources
+C:\Users\Fabio\Documents\Visual Studio 2015\Projects\PROGRAMACION\sesión8\sesión8\obj\Debug\sesión8.vbproj.GenerateResource.Cache
+C:\musica\sesión8\sesión8\bin\Debug\sesión8.exe.config
+C:\musica\sesión8\sesión8\obj\Debug\sesión8.exe
+C:\musica\sesión8\sesión8\obj\Debug\sesión8.xml
+C:\musica\sesión8\sesión8\obj\Debug\sesión8.pdb
+C:\musica\sesión8\sesión8\bin\Debug\sesión8.exe
+C:\musica\sesión8\sesión8\bin\Debug\sesión8.pdb
+C:\musica\sesión8\sesión8\bin\Debug\sesión8.xml
+C:\musica\sesión8\sesión8\obj\Debug\sesión8.vbprojResolveAssemblyReference.cache
+C:\musica\sesión8\sesión8\obj\Debug\sesión8.Form1.resources
+C:\musica\sesión8\sesión8\obj\Debug\sesión8.Resources.resources
+C:\musica\sesión8\sesión8\obj\Debug\sesión8.vbproj.GenerateResource.Cache
+C:\musica\sesión8\sesión8\obj\Debug\sesión8.Form2.resources
+C:\cd\sesión8\sesión8\bin\Debug\sesión8.exe.config
+C:\cd\sesión8\sesión8\obj\Debug\sesión8.exe
+C:\cd\sesión8\sesión8\obj\Debug\sesión8.xml
+C:\cd\sesión8\sesión8\obj\Debug\sesión8.pdb
+C:\cd\sesión8\sesión8\bin\Debug\sesión8.exe
+C:\cd\sesión8\sesión8\bin\Debug\sesión8.pdb
+C:\cd\sesión8\sesión8\bin\Debug\sesión8.xml
+C:\cd\sesión8\sesión8\obj\Debug\sesión8.vbprojResolveAssemblyReference.cache
+C:\cd\sesión8\sesión8\obj\Debug\sesión8.Form1.resources
+C:\cd\sesión8\sesión8\obj\Debug\sesión8.Form2.resources
+C:\cd\sesión8\sesión8\obj\Debug\sesión8.Resources.resources
+C:\cd\sesión8\sesión8\obj\Debug\sesión8.vbproj.GenerateResource.Cache
